@@ -1,0 +1,8 @@
+--v1.1: 11 Mar 25--
+Updated error messages
+Added support for file paths with inverted commas around them
+Added program restarts if unable to open file
+
+Planned features:
+Show "live" arrivals/departures given a station and a time
+Show arrival/departure count for a station

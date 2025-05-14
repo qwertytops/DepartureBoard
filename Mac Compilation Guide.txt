@@ -1,0 +1,18 @@
+--HOW TO COMPILE ON MAC--
+
+1. Open a terminal at Source Code/build
+    - Right click (ctrl+click) on the Source Code/build folder
+    - Select "New Terminal At Folder"
+
+2. In the terminal enter the commands (exactly):
+    brew install cmake
+    cmake ..
+    make
+
+3. The executable "DepartureBoard" will be created in the Source Code/build folder and can be moved wherever you want
+
+
+--TROUBLESHOOTING--
+Error "command not found: brew": google how to install Homebrew
+
+Any other issues DM Qwertytops on Discord
