@@ -4,6 +4,7 @@ Author: Liam van der Moezel
 Created 25 Jun 24
 Last updated: 31 Jul 24
 
+Source code available at https://github.com/qwertytops/DepartureBoard
 Designed for use with RailOS which can be found on https://railwayoperationsimulator.com
 
 ## Description
@@ -29,4 +30,4 @@ Quit program by:
 - closing the terminal
 
 ## Bugs
-Please report any bugs to Qwertytops on the RailOS Discord or via Discord DMs
+Please report any bugs to Qwertytops on the RailOS Discord, via Discord DMs, or as an issue on https://github.com/qwertytops/DepartureBoard
