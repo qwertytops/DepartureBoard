@@ -28,7 +28,7 @@ vector<string> FileParser::ReadFile(string path) {
         cerr << "Could not open file! Potential causes:" << endl << 
         "Typo in file name. Name is case sensitive" << endl << 
         "File extension missing (.ttb)" << endl <<
-        "One or more spaces in the path - enclose the whole path in quotation marks" <<endl <<
+        "(Windows) Path not parseable - enclose the whole path in quotation marks or replace '\\'s with '/'s" << endl <<
         "(Windows) File is locked. Try running this program before opening file in RailOS" << endl << endl;
         restartProgram();
     }
